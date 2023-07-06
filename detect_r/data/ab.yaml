@@ -1,0 +1,7 @@
+train: /home/peng/Downloads/yolov5-master/yolov5-master/dataset/train.txt  # train images (relative to 'path') 128 images
+val: /home/peng/Downloads/yolov5-master/yolov5-master/dataset/val.txt  # val images (relative to 'path') 128 images
+
+# Classes
+nc: 1  # number of classes
+names: ['r']  # class names
+

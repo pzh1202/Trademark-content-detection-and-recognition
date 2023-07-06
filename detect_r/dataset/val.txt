@@ -1,0 +1,4 @@
+/home/peng/Downloads/yolov5-master/yolov5-master/dataset/images/14.png
+/home/peng/Downloads/yolov5-master/yolov5-master/dataset/images/22.png
+/home/peng/Downloads/yolov5-master/yolov5-master/dataset/images/27.png
+/home/peng/Downloads/yolov5-master/yolov5-master/dataset/images/37.png

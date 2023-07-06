@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_train</folder>
+	<filename>13.png</filename>
+	<path>E:\PDFMaster-master (2)\PDFMaster-master\img_train\13.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>277</width>
+		<height>277</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>37</ymin>
+			<xmax>135</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+</annotation>
